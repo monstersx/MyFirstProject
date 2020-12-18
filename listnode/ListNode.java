@@ -1,4 +1,15 @@
-package com.leetcode.topic2;
+package com.learning.listnode;
+
+import javax.xml.soap.Node;
+
+//public class ListNode {
+//    public Object data;
+//    public Node next;
+//
+//    public ListNode(Object e) {
+//        this.data = e;
+//    }
+//}
 
 public class ListNode {
     int val;
@@ -15,4 +26,6 @@ public class ListNode {
         this.val = val;
         this.next = next;
     }
+
+
 }
